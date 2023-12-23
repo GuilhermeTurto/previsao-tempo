@@ -11,7 +11,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: lightblue;
+  background: url(imagens/previsao.png) center;
+  position: relative;
+
 }
 
 .caixa-maior {
@@ -29,7 +31,7 @@ body {
   padding: 10px;
   border-radius: 25px;
   font-size: 18px;
-  background-color: #7c7c7c2b;
+  background-color: #7c7c7c57;
   color: #ffffff;
   width: calc(100% - 60px);
 }
